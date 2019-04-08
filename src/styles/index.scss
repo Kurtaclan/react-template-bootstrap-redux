@@ -1,3 +1,7 @@
+// Import Bootstrap and its default variables along with our theme
+@import 'theme';
+@import "node_modules/bootstrap/scss/bootstrap";
+
 body {
     margin: 0;
     padding: 0;
